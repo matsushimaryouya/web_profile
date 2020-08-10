@@ -306,5 +306,26 @@ line-height: 2em;
 /*実線 1px 黒*/
 }
 #feeGraph{
+    margin-top: 80px;
     margin-bottom: 20px;
+}
+.planCard h4{
+    font-size: 20px;
+}
+.planCard p{
+    font-size: 15px;
+}
+.planCard .skillImg1{
+    text-shadow: orange 0px 3px 5px;
+}
+.planCard .skillImg2{
+    text-shadow: aqua 0px 3px 5px;
+}
+.planCard .skillImg3{
+    text-shadow: purple 0px 3px 5px;
+}
+.originalPlan{
+    border: orange solid 3px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px yellow;
 }
