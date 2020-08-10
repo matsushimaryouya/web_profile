@@ -291,7 +291,20 @@ footer .container ul.menuBox{
 }
 .graphImg{
     width: 100%;
-    height: 500px;
-    background-color: black;
     margin-bottom: 50px;
+    text-align: center;
+}
+.graphImg table{
+    width: 100%;
+}
+table {
+border-collapse: collapse;
+}
+table th, table td {
+border: solid 1px lightgray;
+line-height: 2em;
+/*実線 1px 黒*/
+}
+#feeGraph{
+    margin-bottom: 20px;
 }
