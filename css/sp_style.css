@@ -283,6 +283,12 @@ footer .container ul.menuBox{
     width: 100%;
     margin-bottom: 110px;
 }
+.graphImg{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    margin-bottom: 50px;
+}
 /* ------------------------- */
 .wave_box{
     top:328px;
