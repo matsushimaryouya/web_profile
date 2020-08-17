@@ -331,3 +331,6 @@ font-size: 12px;
 .wave_box2{
     top: 225px;
 }
+svg{
+    z-index: -1;
+}
